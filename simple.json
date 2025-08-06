@@ -1,0 +1,46 @@
+[
+  {
+    "admob_id": "ca-app-pub-9702382617431525~9611035248",
+    "admob_banner": "ca-app-pub-9702382617431525/4533790775",
+    "admob_interstitial": "ca-app-pub-9702382617431525/2356265716",
+    "admob_native": "ca-app-pub-9702382617431525/8730102377",
+    "appopen": "ca-app-pub-9702382617431525/3655823370",
+    "rewarded": "ca-app-pub-9702382617431525/1704489011",
+    "facebook_id": "facebook id",
+    "facebook_banner": "1257654458149429_1257656838149191",
+    "facebook_interstitial": "1257654458149429_1257657008149174",
+    "facebook_native": "1257654458149429_1257657094815832",
+    "ads_status": "1",
+    "banner_type": "admob",
+    "interstitial_type": "admob",
+    "native_type": "admob",
+    "servers": [
+      {
+        "id": "1",
+        "name": "Auto Connect",
+        "username": "qeYaf7BUFQ",
+        "password": "4sytXJyqQ4",
+        "configFile": "https://raw.githubusercontent.com/drmmya/okay/main/germany.ovpn",
+        "flagURL": "germany",
+        "type": "1",
+        "ip": "87-1-DE.cg-dialup.net",
+        "list": "0",
+        "pos": "0",
+        "status": "1"
+      },
+      {
+        "id": "2",
+        "name": "Australia",
+        "username": "qeYaf7BUFQ",
+        "password": "4sytXJyqQ4",
+        "configFile": "https://raw.githubusercontent.com/drmmya/okay/main/australia.ovpn",
+        "flagURL": "australia",
+        "type": "1",
+        "ip": "87-1-AU.cg-dialup.net",
+        "list": "1",
+        "pos": "0",
+        "status": "1"
+      }
+    ]
+  }
+]
